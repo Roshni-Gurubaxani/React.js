@@ -1,2 +1,2 @@
 # React.js
-A web page with the help of React 
+A web page created with the help of React 
